@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/vthczcnfvfkv
 
 Unlisted YouTube video:
-
+https://www.youtube.com/watch?v=v-p55VRdeAg&list=PLTW56WC_Bn1Uvn03K94pyBOq9Z5WHftVk&index=3&t=2s
 
 Paper title:
 Summarization of News Articles using BERT
