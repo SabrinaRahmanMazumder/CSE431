@@ -1,0 +1,5 @@
+Project Title: Rose Disease Recognition using Random Forest Classifier
+
+Contribution:
+Name: Sabrina Rahman Mazumder , Id:20301218
+Name:Zawadul Kafi Nahee ,Id: 20301057 
